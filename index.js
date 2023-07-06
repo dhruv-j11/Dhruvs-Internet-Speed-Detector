@@ -9,7 +9,7 @@ let bitSpeed = document.getElementById("bits"),
 let totalBitSpeed = 0;
 let totalKbSpeed = 0;
 let totalMbSpeed = 0;
-let numTests = 10;
+let numTests = 15;
 let testCompleted = 0;
 
 // Get random image from unsplash.com
